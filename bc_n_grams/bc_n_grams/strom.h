@@ -27,5 +27,5 @@ class strom{
 		bool hledejpom(const string x,uzel*&p);
 		void zapisvporadipom(uzel*&p,ofstream &soubor2);
 		void smazvse(uzel*&p);
-		uzel* koren;
+	 uzel* koren;
 };
